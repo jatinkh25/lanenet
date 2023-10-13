@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./lanenet_model",
+    "./semantic_segmentation_zoo",
+    "./local_utils/config_utils"
+  ]
+}
