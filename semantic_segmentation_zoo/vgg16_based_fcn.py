@@ -14,7 +14,7 @@ import tensorflow as tf
 import sys
 v = '/content/lanenet-lane-detection/'
 sys.path.append(v+'/semantic_segmentation_zoo')
-sys.path.append(v+'local_utils\\config_utils')
+sys.path.append(v+'/local_utils/config_utils')
 
 
 import cnn_basenet
